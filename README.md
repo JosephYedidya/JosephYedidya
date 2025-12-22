@@ -27,7 +27,7 @@
 ### 💼 Projets récents
 | 🌐 Projet | Description | Lien |
 |-----------|--------------|------|
-| 💻 **Portfolio Web** | Mon site personnel présentant mes projets et compétences en contante amélioration| [Voir le site](https://josephyedidya.github.io/Mon-portfolio-/) |
+| 💻 **Portfolio Web** | Mon site personnel présentant mes projets et compétences en contante amélioration| [Voir le site](https://josephyedidya.github.io/Portfolio/) |
 | 📱 **App iOS Finance Tracker** | Application iOS de gestion de budget avec Swift & SwiftUI | À venir |
 | 🧠 **Restauration Website** | Mini projet d’apprentissage interactif en HTML, CSS et JS |[Voir le site](https://josephyedidya.github.io/Restaurant-Website/) |
 
