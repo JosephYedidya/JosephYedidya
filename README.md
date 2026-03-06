@@ -73,7 +73,7 @@ My ambition is to become a **world-class software engineer specialized in iOS de
 I aim to:
 
 * 📱 Build professional **iOS applications**
-* 🌍 Contribute to **open-source projects**
+* 🌍 Contribute to **open source projects**
 * 🚀 Work on innovative software products
 * 🧠 Continuously improve my engineering skills
 
@@ -81,7 +81,7 @@ I aim to:
 
 ## 🌍 Connect With Me
 
-* 💼 GitHub: https://github.com/YOURUSERNAME
+💼 GitHub: https://github.com/YOURUSERNAME
 
 ---
 
