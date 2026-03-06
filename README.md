@@ -37,7 +37,7 @@ I enjoy learning how systems work and building applications that solve real-worl
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JosephYedidya&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I enjoy learning how systems work and building applications that solve real-worl
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=JosephYedidya&theme=tokyonight"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ I enjoy learning how systems work and building applications that solve real-worl
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephYedidya&theme=tokyo-night"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ I enjoy learning how systems work and building applications that solve real-worl
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/JosephYedidya/JosephYedidya/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ I aim to:
 
 ## 🌍 Connect With Me
 
-💼 GitHub: https://github.com/YOURUSERNAME
+💼 GitHub: https://github.com/JosephYedidya
 
 ---
 
