@@ -1,69 +1,88 @@
-# 👋 Salut, moi c'est Joseph Dountio
+<h1 align="center">Hi 👋, I'm Joseph</h1>
+<h3 align="center">Aspiring Software Engineer | Future iOS Developer</h3>
 
-💻 **Développeur Web Full-Stack** en devenir  
-🎓 Étudiant en informatique à Douala, Cameroun 🇨🇲  
-🚀 Passionné par la création d'applications web modernes et performantes
-
----
-
-## 🛠️ Technologies que je maîtrise
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend (en apprentissage)**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Outils**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Future+iOS+Developer;Computer+Science+Student;Passionate+About+Technology;Always+Learning+New+Things"/>
+</p>
 
 ---
 
-## 🎯 Projets en vedette
+## 🚀 About Me
 
-### 💰 [Finance Tracker](https://josephyedidya.github.io/FinanceTracker/)
-Application de gestion de finances personnelles avec suivi des dépenses et revenus.  
-**Tech :** HTML, CSS, JavaScript
+* 💻 Computer science student passionate about technology
+* 📱 Future **iOS developer**
+* 🌱 Currently learning **Algorithms, Web Development and Linux**
+* 🎯 My goal is to become a **high-level software engineer**
 
-### 📅 [Time Table](https://josephyedidya.github.io/Time-Table/)
-Gestionnaire d'emploi du temps pour étudiants avec interface intuitive.  
-**Tech :** HTML, CSS, JavaScript
-
-### 🍽️ [Restaurant Website](https://josephyedidya.github.io/Restauration-Website/)
-Site web moderne pour restaurant avec menu interactif.  
-**Tech :** HTML, CSS, JavaScript
+I enjoy learning how systems work and building applications that solve real-world problems.
 
 ---
 
-## 📊 Mes stats GitHub
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephYedidya&show_icons=true&theme=tokyonight&hide_border=true)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephYedidya&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+<img src="https://skillicons.dev/icons?i=c,html,css,js"/>
+</p>
 
----
+### Tools
 
-## 🎓 Actuellement en train d'apprendre
-
-- ⚛️ React.js pour des interfaces dynamiques
-- 🟢 Node.js & Express pour le backend
-- 🗄️ Bases de données (MySQL & MongoDB)
-- 🔄 API REST et intégration frontend/backend
-
----
-
-## 📫 Me contacter
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josephyedidya.github.io/Joseph-yedidya-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephyedidya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephyedidya@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
 ---
 
-💡 **Ouvert aux opportunités de stage et projets collaboratifs !**
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🎯 My Ambition
+
+My ambition is to become a **world-class software engineer specialized in iOS development**.
+
+I aim to:
+
+* 📱 Build professional **iOS applications**
+* 🌍 Contribute to **open-source projects**
+* 🚀 Work on innovative software products
+* 🧠 Continuously improve my engineering skills
+
+---
+
+## 🌍 Connect With Me
+
+* 💼 GitHub: https://github.com/YOURUSERNAME
+
+---
+
+⭐ *"Consistency beats talent when talent doesn't work hard."*
