@@ -20,17 +20,34 @@ I enjoy learning how systems work and building applications that solve real-worl
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🚀 Current Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode,linux"/>
 </p>
 
-### Tools
+---
+
+### 📚 Learning Roadmap
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=swift,cpp,python,ts,nodejs,react,express,mongodb,mysql,postgres,firebase,docker,aws"/>
 </p>
+
+---
+
+## 💻 Terminal Skills
+
+```bash
+# list files
+ls
+
+# list files with details
+ls -l
+
+# list hidden files
+ls -a
+```
 
 ---
 
@@ -81,7 +98,7 @@ I aim to:
 
 ## 🌍 Connect With Me
 
-💼 GitHub: https://github.com/JosephYedidya
+💼 GitHub: https://github.com/YOURUSERNAME
 
 ---
 
