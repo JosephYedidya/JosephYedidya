@@ -98,7 +98,7 @@ I aim to:
 
 ## 🌍 Connect With Me
 
-💼 GitHub: https://github.com/YOURUSERNAME
+💼 GitHub: https://github.com/JosephYedidya
 
 ---
 
