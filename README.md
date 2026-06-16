@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Joseph Dountio
 
-**Étudiant en Ingénierie Informatique à l’[ISEN Nantes](https://www.isen.fr/campus/nantes)   Développeur Full-Stack & Mobile (React, Node.js, React Native) | Passionné par les technologies web et cross-platform**
+**Étudiant en Ingénierie Informatique Développeur Full-Stack & Mobile (React, Node.js, React Native) | Passionné par les technologies web et cross-platform**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-dountio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
